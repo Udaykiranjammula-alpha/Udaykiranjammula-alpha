@@ -6,17 +6,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c0f1d,30:1e1b4b,60:4f46e5,80:8b5cf6,100:ec4899&height=250&section=header&text=Jammula%20Uday%20Kiran&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineer%20%7C%20Digital%20Forensics%20%7C%20Edge%20AI%20%7C%20Full-Stack&descAlignY=58&descFontSize=18&descFontColor=c0caf5&descAlign=50" width="100%" alt="Header" />
 
-</div>
-
 <!--═══════════════════════════════════════════════════════════════════
-     🌧️  MATRIX RAIN BANNER #1 — BELOW HERO
+     🌧️ CYBER RAIN ANIMATION (100% RELIABLE LOOPING GIF)
 ═══════════════════════════════════════════════════════════════════-->
 
-<div align="center">
-  <img src="assets/matrix-rain.svg" width="100%" alt="Matrix Code Rain" />
-</div>
-
-<div align="center">
+<img src="assets/matrix-rain.gif" width="100%" alt="Cyber Matrix Rain" />
 
 <!--═══════════════════════════════════════════════════════════════════
      CHROMATIC TYPING ENGINE
@@ -35,11 +29,11 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=Udaykiranjammula-alpha&style=for-the-badge&color=ec4899&label=PROFILE+VIEWS&abbreviated=true" alt="Profile Views" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Status-Building%20FileDNA%20Ecosystem%20🟢-06b6d4?style=for-the-badge&logo=statuspage&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Building%20FileDNA%20Ecosystem-06b6d4?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Timezone-IST%20UTC%2B05%3A30-8b5cf6?style=for-the-badge&logo=clockify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Timezone-IST%20UTC%2B05%3A30-8b5cf6?style=for-the-badge&logo=clockify&logoColor=white" alt="Timezone" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Open%20For-Internships%20%26%20Collaboration-4f46e5?style=for-the-badge&logo=handshake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20For-Internships%20%26%20Collaboration-4f46e5?style=for-the-badge&logo=handshake&logoColor=white" alt="Open For" />
 </p>
 
 <!--═══════════════════════════════════════════════════════════════════
@@ -48,15 +42,15 @@
 
 <p>
   <a href="mailto:2500031243@kluniversity.in">
-    <img src="https://img.shields.io/badge/Email-2500031243%40kluniversity.in-ec4899?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-2500031243%40kluniversity.in-ec4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/Udaykiranjammula-alpha">
-    <img src="https://img.shields.io/badge/GitHub-Udaykiranjammula-alpha-8b5cf6?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Udaykiranjammula--alpha-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
   <a href="https://github.com/Udaykiranjammula-alpha/file-dna">
-    <img src="https://img.shields.io/badge/FileDNA%202.0-Open%20Source-06b6d4?style=for-the-badge&logo=electron&logoColor=white" />
+    <img src="https://img.shields.io/badge/FileDNA%202.0-Open%20Source-06b6d4?style=for-the-badge&logo=electron&logoColor=white" alt="FileDNA" />
   </a>
 </p>
 
@@ -116,13 +110,7 @@ udaykiran@klu-systems:~$ ls /home/projects --flagship
 udaykiran@klu-systems:~$ █
 ```
 
-<!--═══════════════════════════════════════════════════════════════════
-     🌧️  MATRIX RAIN BANNER #2 — BEFORE PROJECTS
-═══════════════════════════════════════════════════════════════════-->
-
-<div align="center">
-  <img src="assets/matrix-rain.svg" width="100%" alt="Matrix Code Rain" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,35:6366f1,70:8b5cf6,100:ec4899&height=3" width="100%" />
 
 ---
 
@@ -338,13 +326,7 @@ FILE INPUT
 
 <br/>
 
-<!--═══════════════════════════════════════════════════════════════════
-     🌧️  MATRIX RAIN BANNER #3 — BEFORE TECH STACK
-═══════════════════════════════════════════════════════════════════-->
-
-<div align="center">
-  <img src="assets/matrix-rain.svg" width="100%" alt="Matrix Code Rain" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,35:8b5cf6,70:6366f1,100:06b6d4&height=3" width="100%" />
 
 ---
 
@@ -368,12 +350,12 @@ FILE INPUT
 <div align="center">
 
 #### ⚡ Core Systems & Low-Level Computing
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,python,linux,bash,git" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,python,linux,bash,git" alt="Core Systems" /></a>
 
 <br/>
 
 #### 🔌 Edge, Embedded & Hardware
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arduino" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arduino" alt="Embedded" /></a>
 &nbsp;
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-008080?style=flat-square&logo=freertos&logoColor=white)
@@ -382,52 +364,14 @@ FILE INPUT
 <br/>
 
 #### 🌐 Full-Stack, Desktop & Forensics
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,javascript,typescript,html,css,tailwind,bootstrap" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,javascript,typescript,html,css,tailwind,bootstrap" alt="Web Stack" /></a>
 &nbsp;
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
 <br/>
 
 #### 🗄️ Databases, DevOps & Tooling
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,github,vscode,postman" /></a>
-
-</div>
-
-<br/>
-
-<!--═══════════════════════════════════════════════════════════════════
-     🌧️  MATRIX RAIN BANNER #4 — BEFORE ANALYTICS
-═══════════════════════════════════════════════════════════════════-->
-
-<div align="center">
-  <img src="assets/matrix-rain.svg" width="100%" alt="Matrix Code Rain" />
-</div>
-
----
-
-## 📊 Live GitHub Analytics & Telemetry
-
-<div align="center">
-
-<a href="https://github.com/Udaykiranjammula-alpha">
-  <img src="https://github-readme-stats.vercel.app/api?username=Udaykiranjammula-alpha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=131127&title_color=ec4899&icon_color=06b6d4&text_color=c0caf5&rank_icon=github" alt="GitHub Stats" height="175" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Udaykiranjammula-alpha">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udaykiranjammula-alpha&layout=compact&theme=tokyonight&hide_border=true&bg_color=131127&title_color=8b5cf6&text_color=c0caf5" alt="Top Languages" height="175" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Udaykiranjammula-alpha">
-  <img src="https://streak-stats.demolab.com/?user=Udaykiranjammula-alpha&theme=tokyonight&hide_border=true&background=131127&ring=ec4899&fire=8b5cf6&currStreakLabel=06b6d4&sideLabels=c0caf5&dates=a9b1d6" alt="GitHub Streak" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Udaykiranjammula-alpha">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Udaykiranjammula-alpha&theme=tokyo-night&hide_border=true&bg_color=131127&color=ec4899&line=8b5cf6&point=06b6d4&area=true&area_color=1e1b4b" alt="Activity Graph" width="95%" />
-</a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,github,vscode,postman" alt="DevOps" /></a>
 
 </div>
 
@@ -437,10 +381,24 @@ FILE INPUT
 
 ---
 
-## 🏆 GitHub Achievement Trophies
+## 📊 Live GitHub Analytics & Telemetry
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Udaykiranjammula-alpha&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7" alt="Trophies" width="95%" />
+
+<a href="https://github.com/Udaykiranjammula-alpha">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Udaykiranjammula-alpha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=131127&title_color=ec4899&icon_color=06b6d4&text_color=c0caf5&rank_icon=github" alt="GitHub Stats" height="175" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Udaykiranjammula-alpha">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Udaykiranjammula-alpha&layout=compact&theme=tokyonight&hide_border=true&bg_color=131127&title_color=8b5cf6&text_color=c0caf5" alt="Top Languages" height="175" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Udaykiranjammula-alpha">
+  <img src="https://streak-stats.demolab.com/?user=Udaykiranjammula-alpha&theme=tokyonight&hide_border=true&background=131127&ring=ec4899&fire=8b5cf6&currStreakLabel=06b6d4&sideLabels=c0caf5&dates=a9b1d6" alt="GitHub Streak" />
+</a>
+
 </div>
 
 <br/>
@@ -457,29 +415,15 @@ FILE INPUT
 
 <br/>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg" />
-    <img alt="Snake animation" src="assets/github-snake-dark.svg" width="95%" />
-  </picture>
-</div>
-
-<br/>
-
 <!--═══════════════════════════════════════════════════════════════════
-     🌧️  MATRIX RAIN BANNER #5 — BEFORE FOOTER
+     🌧️ CYBER RAIN DIVIDER (BEFORE FOOTER)
 ═══════════════════════════════════════════════════════════════════-->
 
 <div align="center">
-  <img src="assets/matrix-rain.svg" width="100%" alt="Matrix Code Rain" />
+  <img src="assets/matrix-rain.gif" width="100%" alt="Cyber Matrix Rain" />
 </div>
 
----
+<br/>
 
 <div align="center">
 
