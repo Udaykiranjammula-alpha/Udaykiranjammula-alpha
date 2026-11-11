@@ -5,6 +5,10 @@ on:
     - cron: "17 4 * * *"
   workflow_dispatch:
 
+concurrency:
+  group: update-contributions
+  cancel-in-progress: false
+
 permissions:
   contents: write
 

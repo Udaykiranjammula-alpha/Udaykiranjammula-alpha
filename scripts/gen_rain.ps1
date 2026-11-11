@@ -1,9 +1,9 @@
 # Matrix Rain SVG Generator — SMIL Animations (GitHub-compatible)
 # GitHub strips CSS @keyframes from <img src=".svg"> — SMIL works natively
 
-$chars     = @('0','1','<','>','{','}','(',')',';',':','/','|','#','@','$','%','*','~','=','+','_','.','A','B','C','D','E','F')
-$colors    = @('#06b6d4','#8b5cf6','#ec4899','#7aa2f7','#22d3ee','#a855f7','#06b6d4','#8b5cf6')
-$dimColors = @('#0e4a5a','#2d1b6e','#5e1535','#1a2f5e','#073b47','#2a0a5e','#0e4a5a','#2d1b6e')
+$chars     = @('0','1','&lt;','&gt;','&amp;','{','}','(',')',';',':','/','|','#','@','$','%','*','~','=','+','_','.','A','B','C','D','E','F')
+$colors    = @('#7aa2f7','#bb9af7','#7dcfff','#9ece6a','#b4f9f8','#bb9af7','#7aa2f7')
+$dimColors = @('#292e42','#3b4261','#1f2335','#414868')
 
 $columns = 55
 $width   = 1200
@@ -52,7 +52,7 @@ $svg = @"
       <rect width="$width" height="$height"/>
     </clipPath>
   </defs>
-  <rect width="$width" height="$height" fill="#0c0f1d"/>
+  <rect width="$width" height="$height" fill="#1a1b26"/>
   <g clip-path="url(#clip)">
 $groups  </g>
 </svg>

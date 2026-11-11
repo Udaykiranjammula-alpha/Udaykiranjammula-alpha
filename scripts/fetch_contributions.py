@@ -24,14 +24,17 @@ def fetch_calendar(username: str) -> bytes:
     url = CONTRIBUTIONS_URL.format(username=username)
     curl = shutil.which("curl")
     if curl:
-        fallback = subprocess.run(
-            [curl, "--fail", "--location", "--silent", "--show-error", "--connect-timeout", "30", "--header", "Accept: image/svg+xml,text/html;q=0.9,*/*;q=0.8", "--user-agent", "UdayProfileContributionBot/1.0 (+https://github.com/Udaykiranjammula-alpha)", url],
-            capture_output=True,
-            check=False,
-            timeout=45,
-        )
-        if fallback.returncode == 0 and fallback.stdout:
-            return fallback.stdout
+        try:
+            fallback = subprocess.run(
+                [curl, "--fail", "--location", "--silent", "--show-error", "--connect-timeout", "30", "--header", "Accept: image/svg+xml,text/html;q=0.9,*/*;q=0.8", "--user-agent", "UdayProfileContributionBot/1.0 (+https://github.com/Udaykiranjammula-alpha)", url],
+                capture_output=True,
+                check=False,
+                timeout=45,
+            )
+            if fallback.returncode == 0 and fallback.stdout:
+                return fallback.stdout
+        except (subprocess.SubprocessError, OSError):
+            pass
     request = urllib.request.Request(
         url,
         headers={"Accept": "image/svg+xml,text/html;q=0.9,*/*;q=0.8", "User-Agent": "UdayProfileContributionBot/1.0 (+https://github.com/Udaykiranjammula-alpha)"},
@@ -39,6 +42,10 @@ def fetch_calendar(username: str) -> bytes:
     try:
         with urllib.request.urlopen(request, timeout=30) as response:
             payload = response.read()
+    except urllib.error.HTTPError as error:
+        if error.code == 429:
+            raise RuntimeError(f"GitHub rate limit reached (HTTP 429) fetching contribution calendar for {username}") from error
+        raise RuntimeError(f"GitHub returned HTTP {error.code} fetching contribution calendar for {username}") from error
     except urllib.error.URLError as error:
         raise RuntimeError(f"Could not fetch GitHub's public contribution calendar: {error}") from error
     if not payload:
@@ -87,26 +94,36 @@ def parse_calendar(payload: bytes) -> list[dict[str, int | str]]:
 
 def write_json_atomic(destination: Path, document: dict[str, object]) -> None:
     destination.parent.mkdir(parents=True, exist_ok=True)
-    with tempfile.NamedTemporaryFile("w", encoding="utf-8", dir=destination.parent, delete=False, suffix=".tmp") as stream:
-        json.dump(document, stream, indent=2)
-        stream.write("\n")
-        temporary_path = Path(stream.name)
-    temporary_path.replace(destination)
+    temp_file = tempfile.NamedTemporaryFile("w", encoding="utf-8", dir=destination.parent, delete=False, suffix=".tmp")
+    temp_path = Path(temp_file.name)
+    try:
+        with temp_file as stream:
+            json.dump(document, stream, indent=2)
+            stream.write("\n")
+        temp_path.replace(destination)
+    except BaseException:
+        if temp_path.exists():
+            temp_path.unlink()
+        raise
 
 
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--username", default=DEFAULT_USERNAME)
     parser.add_argument("--output", type=Path, default=Path(__file__).resolve().parents[1] / "data" / "contributions.json")
+    parser.add_argument("--strict", action="store_true", help="Fail with non-zero exit code if fetch fails, even if valid cache exists")
     arguments = parser.parse_args()
     try:
         days = parse_calendar(fetch_calendar(arguments.username))
         write_json_atomic(arguments.output, {"schema_version": 1, "username": arguments.username, "source": CONTRIBUTIONS_URL.format(username=arguments.username), "fetched_at": datetime.now(UTC).replace(microsecond=0).isoformat().replace("+00:00", "Z"), "days": days})
+        print(f"Saved {len(days)} real contribution days to {arguments.output}")
+        return 0
     except RuntimeError as error:
+        if arguments.output.is_file() and not arguments.strict:
+            print(f"warning: Telemetry fetch issue encountered ({error}). Retaining existing valid cache at {arguments.output}.", file=sys.stderr)
+            return 0
         print(f"error: {error}", file=sys.stderr)
         return 1
-    print(f"Saved {len(days)} real contribution days to {arguments.output}")
-    return 0
 
 
 if __name__ == "__main__":

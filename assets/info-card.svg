@@ -1,16 +1,64 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="490" height="290" viewBox="0 0 490 290">
-<rect width="490" height="290" rx="12" fill="#080b0f" stroke="#263341"/>
-<rect width="490" height="42" rx="12" fill="#111820"/>
-<circle cx="20" cy="21" r="5" fill="#ff5f57"/><circle cx="38" cy="21" r="5" fill="#febc2e"/><circle cx="56" cy="21" r="5" fill="#28c840"/>
-<text x="78" y="26" fill="#d8dee9" font-family="monospace" font-size="13">uday@github ~ /profile</text>
-<g font-family="monospace" font-size="12">
-<text x="20" y="72" fill="#63d9ff">Name</text><text x="125" y="72" fill="#d8dee9">Uday Kiran Jammula</text>
-<text x="20" y="101" fill="#63d9ff">Role</text><text x="125" y="101" fill="#d8dee9">B.Tech Student / Developer</text>
-<text x="20" y="130" fill="#63d9ff">Focus</text><text x="125" y="130" fill="#d8dee9">AI/ML · Embedded · Web</text>
-<text x="20" y="159" fill="#63d9ff">Languages</text><text x="125" y="159" fill="#d8dee9">C · Python · Kotlin · Rust</text>
-<text x="20" y="188" fill="#63d9ff">Builds</text><text x="125" y="188" fill="#d8dee9">MediCare HMS · NEXUS-PRESENCE</text>
-<text x="20" y="217" fill="#63d9ff">Hardware</text><text x="125" y="217" fill="#d8dee9">ESP32 · Local AI experiments</text>
-<text x="20" y="246" fill="#63d9ff">GitHub</text><text x="125" y="246" fill="#d8dee9">Udaykiranjammula-alpha</text>
-</g>
-<text x="20" y="274" fill="#39d353" font-family="monospace" font-size="11">$ status: building things that work</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="290" viewBox="0 0 490 290" fill="none">
+  <defs>
+    <style>
+      .hdr-txt { font-family: Consolas, 'SF Mono', 'Liberation Mono', Menlo, Monaco, 'Courier New', monospace; font-size: 11px; fill: #c0caf5; font-weight: 600; letter-spacing: 0.5px; }
+      .lbl { font-family: Consolas, 'SF Mono', 'Liberation Mono', Menlo, Monaco, 'Courier New', monospace; font-size: 11px; fill: #7dcfff; font-weight: 600; }
+      .val { font-family: Consolas, 'SF Mono', 'Liberation Mono', Menlo, Monaco, 'Courier New', monospace; font-size: 10.5px; fill: #c0caf5; }
+      .val-accent { font-family: Consolas, 'SF Mono', 'Liberation Mono', Menlo, Monaco, 'Courier New', monospace; font-size: 10.5px; fill: #bb9af7; }
+      .status-txt { font-family: Consolas, 'SF Mono', 'Liberation Mono', Menlo, Monaco, 'Courier New', monospace; font-size: 10px; fill: #9ece6a; }
+    </style>
+  </defs>
+
+  <!-- Background Frame & Border -->
+  <rect width="490" height="290" rx="10" fill="#1a1b26" stroke="#414868" stroke-width="1.5"/>
+
+  <!-- Window Header Bar with Top Rounded Corners -->
+  <path d="M0,10 Q0,0 10,0 L480,0 Q490,0 490,10 L490,38 L0,38 Z" fill="#24283b"/>
+  <line x1="0" y1="38" x2="490" y2="38" stroke="#414868" stroke-width="1"/>
+
+  <!-- Terminal Window Chrome Dots -->
+  <circle cx="20" cy="19" r="5" fill="#f7768e"/>
+  <circle cx="36" cy="19" r="5" fill="#e0af68"/>
+  <circle cx="52" cy="19" r="5" fill="#9ece6a"/>
+
+  <!-- Header Title -->
+  <text x="74" y="23" font-size="11" class="hdr-txt">SYSTEM TERMINAL // J. UDAY KIRAN // KLU-SYS-01</text>
+
+  <!-- Systems Terminal Data Rows -->
+  <g>
+    <!-- Row 1: Identity -->
+    <text x="20" y="68" font-size="11" class="lbl">Identity</text>
+    <text x="118" y="68" font-size="10.5" class="val">Jammula Uday Kiran // Systems Engineer</text>
+
+    <!-- Row 2: Domain -->
+    <text x="20" y="96" font-size="11" class="lbl">Domain</text>
+    <text x="118" y="96" font-size="10.5" class="val">Systems Architecture · HPC · Embedded AI</text>
+
+    <!-- Row 3: Languages -->
+    <text x="20" y="124" font-size="11" class="lbl">Languages</text>
+    <text x="118" y="124" font-size="10.5" class="val">C++20 · C · Rust · Python · ASM (Xtensa)</text>
+
+    <!-- Row 4: Flagships -->
+    <text x="20" y="152" font-size="11" class="lbl">Flagships</text>
+    <text x="118" y="152" font-size="10.5" class="val-accent">FileDNA 2.0 · ESP32-ML · Uday AI Server</text>
+
+    <!-- Row 5: Low-Level -->
+    <text x="20" y="180" font-size="11" class="lbl">Low-Level</text>
+    <text x="118" y="180" font-size="10.5" class="val">Linux · FreeRTOS · Xtensa PIE · Zero-Copy</text>
+
+    <!-- Row 6: Telemetry -->
+    <text x="20" y="208" font-size="11" class="lbl">Telemetry</text>
+    <text x="118" y="208" font-size="10.5" class="val">15.2 GB/s xxH3 · 54.2ms · Air-Gapped UDS</text>
+
+    <!-- Row 7: Profile -->
+    <text x="20" y="236" font-size="11" class="lbl">Profile</text>
+    <text x="118" y="236" font-size="10.5" class="val">github.com/Udaykiranjammula-alpha [18 Repos]</text>
+  </g>
+
+  <!-- Footer Separator -->
+  <line x1="0" y1="254" x2="490" y2="254" stroke="#414868" stroke-width="1"/>
+
+  <!-- Footer Status Telemetry -->
+  <circle cx="20" cy="272" r="4" fill="#9ece6a"/>
+  <text x="32" y="275" font-size="10" class="status-txt">$ status: [ONLINE] Benchmarking low-latency pipeline</text>
 </svg>

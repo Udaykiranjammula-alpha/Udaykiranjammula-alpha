@@ -7,3 +7,12 @@ __pycache__/
 *.bak
 .DS_Store
 Thumbs.db
+
+.env
+*.env
+.agents/
+linkedin-media/
+pdf_builder/
+*.pdf
+gcm-diagnose.log
+filedna_post.txt
