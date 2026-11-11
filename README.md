@@ -6,6 +6,18 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c0f1d,30:1e1b4b,60:4f46e5,80:8b5cf6,100:ec4899&height=250&section=header&text=Jammula%20Uday%20Kiran&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineer%20%7C%20Digital%20Forensics%20%7C%20Edge%20AI%20%7C%20Full-Stack&descAlignY=58&descFontSize=18&descFontColor=c0caf5&descAlign=50" width="100%" alt="Header" />
 
+</div>
+
+<!--═══════════════════════════════════════════════════════════════════
+     🌧️  MATRIX RAIN BANNER #1 — BELOW HERO
+═══════════════════════════════════════════════════════════════════-->
+
+<div align="center">
+  <img src="assets/matrix-rain.svg" width="100%" alt="Matrix Code Rain" />
+</div>
+
+<div align="center">
+
 <!--═══════════════════════════════════════════════════════════════════
      CHROMATIC TYPING ENGINE
 ═══════════════════════════════════════════════════════════════════-->
@@ -40,7 +52,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/Udaykiranjammula-alpha">
-    <img src="https://img.shields.io/badge/GitHub-Udaykiranjammula--alpha-8b5cf6?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Udaykiranjammula-alpha-8b5cf6?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://github.com/Udaykiranjammula-alpha/file-dna">
@@ -57,7 +69,7 @@
 <br/>
 
 <!--═══════════════════════════════════════════════════════════════════
-     DUAL CYBER HUD — info-card + tech-core
+     DUAL CYBER HUD
 ═══════════════════════════════════════════════════════════════════-->
 
 <div align="center">
@@ -104,7 +116,13 @@ udaykiran@klu-systems:~$ ls /home/projects --flagship
 udaykiran@klu-systems:~$ █
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,35:6366f1,70:8b5cf6,100:ec4899&height=3" width="100%" />
+<!--═══════════════════════════════════════════════════════════════════
+     🌧️  MATRIX RAIN BANNER #2 — BEFORE PROJECTS
+═══════════════════════════════════════════════════════════════════-->
+
+<div align="center">
+  <img src="assets/matrix-rain.svg" width="100%" alt="Matrix Code Rain" />
+</div>
 
 ---
 
@@ -320,7 +338,13 @@ FILE INPUT
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,35:8b5cf6,70:6366f1,100:06b6d4&height=3" width="100%" />
+<!--═══════════════════════════════════════════════════════════════════
+     🌧️  MATRIX RAIN BANNER #3 — BEFORE TECH STACK
+═══════════════════════════════════════════════════════════════════-->
+
+<div align="center">
+  <img src="assets/matrix-rain.svg" width="100%" alt="Matrix Code Rain" />
+</div>
 
 ---
 
@@ -371,7 +395,13 @@ FILE INPUT
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,35:8b5cf6,70:6366f1,100:06b6d4&height=3" width="100%" />
+<!--═══════════════════════════════════════════════════════════════════
+     🌧️  MATRIX RAIN BANNER #4 — BEFORE ANALYTICS
+═══════════════════════════════════════════════════════════════════-->
+
+<div align="center">
+  <img src="assets/matrix-rain.svg" width="100%" alt="Matrix Code Rain" />
+</div>
 
 ---
 
@@ -403,7 +433,7 @@ FILE INPUT
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,35:6366f1,70:8b5cf6,100:ec4899&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,35:8b5cf6,70:6366f1,100:06b6d4&height=3" width="100%" />
 
 ---
 
@@ -415,7 +445,7 @@ FILE INPUT
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,35:8b5cf6,70:6366f1,100:06b6d4&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,35:6366f1,70:8b5cf6,100:ec4899&height=3" width="100%" />
 
 ---
 
@@ -441,7 +471,13 @@ FILE INPUT
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,35:6366f1,70:8b5cf6,100:ec4899&height=3" width="100%" />
+<!--═══════════════════════════════════════════════════════════════════
+     🌧️  MATRIX RAIN BANNER #5 — BEFORE FOOTER
+═══════════════════════════════════════════════════════════════════-->
+
+<div align="center">
+  <img src="assets/matrix-rain.svg" width="100%" alt="Matrix Code Rain" />
+</div>
 
 ---
 

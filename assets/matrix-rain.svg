@@ -1,0 +1,732 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180">
+  <rect width="1200" height="180" fill="#0c0f1d"/>
+  <style>
+.c1{animation:f1 1.85s linear -3.99s infinite;}
+@keyframes f1{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c2{animation:f2 2.17s linear -4.54s infinite;}
+@keyframes f2{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c3{animation:f3 3.87s linear -4.57s infinite;}
+@keyframes f3{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c4{animation:f4 1.68s linear -1.54s infinite;}
+@keyframes f4{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c5{animation:f5 2.06s linear -3.55s infinite;}
+@keyframes f5{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c6{animation:f6 2.8s linear -2.52s infinite;}
+@keyframes f6{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c7{animation:f7 3.36s linear -1.5s infinite;}
+@keyframes f7{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c8{animation:f8 3.58s linear -2.22s infinite;}
+@keyframes f8{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c9{animation:f9 1.97s linear -1.06s infinite;}
+@keyframes f9{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c10{animation:f10 2.29s linear -2.13s infinite;}
+@keyframes f10{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c11{animation:f11 2.9s linear -2.99s infinite;}
+@keyframes f11{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c12{animation:f12 3.21s linear -1.46s infinite;}
+@keyframes f12{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c13{animation:f13 3.63s linear -4.63s infinite;}
+@keyframes f13{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c14{animation:f14 2.06s linear -2.59s infinite;}
+@keyframes f14{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c15{animation:f15 2.22s linear -2.45s infinite;}
+@keyframes f15{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c16{animation:f16 2.29s linear -0.94s infinite;}
+@keyframes f16{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c17{animation:f17 3.92s linear -4.01s infinite;}
+@keyframes f17{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c18{animation:f18 3.82s linear -3.89s infinite;}
+@keyframes f18{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c19{animation:f19 3.28s linear -4.07s infinite;}
+@keyframes f19{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c20{animation:f20 1.94s linear -2.02s infinite;}
+@keyframes f20{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c21{animation:f21 3.12s linear -2.51s infinite;}
+@keyframes f21{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c22{animation:f22 2.54s linear -0.84s infinite;}
+@keyframes f22{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c23{animation:f23 3.57s linear -1.17s infinite;}
+@keyframes f23{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c24{animation:f24 3.88s linear -1.38s infinite;}
+@keyframes f24{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c25{animation:f25 2.23s linear -3.67s infinite;}
+@keyframes f25{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c26{animation:f26 3.96s linear -4.11s infinite;}
+@keyframes f26{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c27{animation:f27 1.77s linear -0.88s infinite;}
+@keyframes f27{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c28{animation:f28 2.06s linear -2.53s infinite;}
+@keyframes f28{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c29{animation:f29 1.9s linear -4.73s infinite;}
+@keyframes f29{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c30{animation:f30 1.75s linear -0.11s infinite;}
+@keyframes f30{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c31{animation:f31 3.33s linear -2.59s infinite;}
+@keyframes f31{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c32{animation:f32 1.73s linear -3.5s infinite;}
+@keyframes f32{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c33{animation:f33 2.62s linear -1.56s infinite;}
+@keyframes f33{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c34{animation:f34 2.89s linear -4.66s infinite;}
+@keyframes f34{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c35{animation:f35 2.5s linear -0.24s infinite;}
+@keyframes f35{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c36{animation:f36 3.39s linear -1.7s infinite;}
+@keyframes f36{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c37{animation:f37 1.77s linear -4.42s infinite;}
+@keyframes f37{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c38{animation:f38 3.5s linear -0.2s infinite;}
+@keyframes f38{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c39{animation:f39 2.09s linear -2.52s infinite;}
+@keyframes f39{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c40{animation:f40 2.73s linear -3.07s infinite;}
+@keyframes f40{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c41{animation:f41 3.94s linear -4.57s infinite;}
+@keyframes f41{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c42{animation:f42 2.21s linear -2.62s infinite;}
+@keyframes f42{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c43{animation:f43 2.81s linear -2.33s infinite;}
+@keyframes f43{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c44{animation:f44 1.88s linear -3.96s infinite;}
+@keyframes f44{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c45{animation:f45 3.06s linear -2.09s infinite;}
+@keyframes f45{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c46{animation:f46 3.16s linear -3.77s infinite;}
+@keyframes f46{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c47{animation:f47 3.41s linear -0.59s infinite;}
+@keyframes f47{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c48{animation:f48 3.23s linear -0.59s infinite;}
+@keyframes f48{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c49{animation:f49 2.68s linear -3.46s infinite;}
+@keyframes f49{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c50{animation:f50 3.39s linear -2.55s infinite;}
+@keyframes f50{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c51{animation:f51 3.27s linear -0.09s infinite;}
+@keyframes f51{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c52{animation:f52 3.77s linear -1.07s infinite;}
+@keyframes f52{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c53{animation:f53 3.97s linear -3.22s infinite;}
+@keyframes f53{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c54{animation:f54 3.4s linear -0.94s infinite;}
+@keyframes f54{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c55{animation:f55 2.52s linear -0.76s infinite;}
+@keyframes f55{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c56{animation:f56 2.32s linear -3.11s infinite;}
+@keyframes f56{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c57{animation:f57 2.74s linear -2.24s infinite;}
+@keyframes f57{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c58{animation:f58 1.71s linear -4.05s infinite;}
+@keyframes f58{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c59{animation:f59 2.23s linear -2.64s infinite;}
+@keyframes f59{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+.c60{animation:f60 2.06s linear -4.79s infinite;}
+@keyframes f60{0%{transform:translateY(-170px);opacity:0}8%{opacity:1}88%{opacity:.8}100%{transform:translateY(230px);opacity:0}}
+</style>
+  <g class='c1' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='4' y='0' fill='#ffffff' opacity='1'>_</text>
+  <text x='4' y='16' fill='#06b6d4' opacity='0.85'>:</text>
+  <text x='4' y='32' fill='#06b6d4' opacity='0.7'>E</text>
+  <text x='4' y='48' fill='#0e4a5a' opacity='0.7'>|</text>
+  <text x='4' y='64' fill='#0e4a5a' opacity='0.6'>F</text>
+  <text x='4' y='80' fill='#0e4a5a' opacity='0.5'>*</text>
+</g>
+<g class='c2' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='24' y='0' fill='#ffffff' opacity='1'>}</text>
+  <text x='24' y='16' fill='#8b5cf6' opacity='0.85'>=</text>
+  <text x='24' y='32' fill='#8b5cf6' opacity='0.7'>*</text>
+  <text x='24' y='48' fill='#2d1b6e' opacity='0.7'>$</text>
+  <text x='24' y='64' fill='#2d1b6e' opacity='0.6'>.</text>
+  <text x='24' y='80' fill='#2d1b6e' opacity='0.5'>E</text>
+  <text x='24' y='96' fill='#2d1b6e' opacity='0.4'>D</text>
+  <text x='24' y='112' fill='#2d1b6e' opacity='0.3'>E</text>
+  <text x='24' y='128' fill='#2d1b6e' opacity='0.2'>0</text>
+  <text x='24' y='144' fill='#2d1b6e' opacity='0.1'>1</text>
+</g>
+<g class='c3' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='44' y='0' fill='#ffffff' opacity='1'>C</text>
+  <text x='44' y='16' fill='#ec4899' opacity='0.85'>_</text>
+  <text x='44' y='32' fill='#ec4899' opacity='0.7'>E</text>
+  <text x='44' y='48' fill='#5e1535' opacity='0.7'>|</text>
+  <text x='44' y='64' fill='#5e1535' opacity='0.6'>#</text>
+  <text x='44' y='80' fill='#5e1535' opacity='0.5'>></text>
+  <text x='44' y='96' fill='#5e1535' opacity='0.4'>0</text>
+  <text x='44' y='112' fill='#5e1535' opacity='0.3'>)</text>
+</g>
+<g class='c4' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='64' y='0' fill='#ffffff' opacity='1'>1</text>
+  <text x='64' y='16' fill='#7aa2f7' opacity='0.85'>C</text>
+  <text x='64' y='32' fill='#7aa2f7' opacity='0.7'>B</text>
+  <text x='64' y='48' fill='#1a2f5e' opacity='0.7'>D</text>
+  <text x='64' y='64' fill='#1a2f5e' opacity='0.6'>@</text>
+  <text x='64' y='80' fill='#1a2f5e' opacity='0.5'>A</text>
+  <text x='64' y='96' fill='#1a2f5e' opacity='0.4'>;</text>
+</g>
+<g class='c5' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='84' y='0' fill='#ffffff' opacity='1'>+</text>
+  <text x='84' y='16' fill='#22d3ee' opacity='0.85'>E</text>
+  <text x='84' y='32' fill='#22d3ee' opacity='0.7'>A</text>
+  <text x='84' y='48' fill='#073b47' opacity='0.7'>F</text>
+  <text x='84' y='64' fill='#073b47' opacity='0.6'>1</text>
+  <text x='84' y='80' fill='#073b47' opacity='0.5'>A</text>
+  <text x='84' y='96' fill='#073b47' opacity='0.4'>F</text>
+  <text x='84' y='112' fill='#073b47' opacity='0.3'>+</text>
+  <text x='84' y='128' fill='#073b47' opacity='0.2'>%</text>
+  <text x='84' y='144' fill='#073b47' opacity='0.1'>A</text>
+</g>
+<g class='c6' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='104' y='0' fill='#ffffff' opacity='1'>$</text>
+  <text x='104' y='16' fill='#a855f7' opacity='0.85'>$</text>
+  <text x='104' y='32' fill='#a855f7' opacity='0.7'><</text>
+  <text x='104' y='48' fill='#2a0a5e' opacity='0.7'>A</text>
+  <text x='104' y='64' fill='#2a0a5e' opacity='0.6'>(</text>
+  <text x='104' y='80' fill='#2a0a5e' opacity='0.5'>F</text>
+  <text x='104' y='96' fill='#2a0a5e' opacity='0.4'>:</text>
+  <text x='104' y='112' fill='#2a0a5e' opacity='0.3'>(</text>
+  <text x='104' y='128' fill='#2a0a5e' opacity='0.2'>)</text>
+  <text x='104' y='144' fill='#2a0a5e' opacity='0.1'>:</text>
+</g>
+<g class='c7' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='124' y='0' fill='#ffffff' opacity='1'>B</text>
+  <text x='124' y='16' fill='#06b6d4' opacity='0.85'>/</text>
+  <text x='124' y='32' fill='#06b6d4' opacity='0.7'>+</text>
+  <text x='124' y='48' fill='#0e4a5a' opacity='0.7'>)</text>
+  <text x='124' y='64' fill='#0e4a5a' opacity='0.6'>C</text>
+  <text x='124' y='80' fill='#0e4a5a' opacity='0.5'>:</text>
+  <text x='124' y='96' fill='#0e4a5a' opacity='0.4'>A</text>
+  <text x='124' y='112' fill='#0e4a5a' opacity='0.3'>=</text>
+  <text x='124' y='128' fill='#0e4a5a' opacity='0.2'>0</text>
+  <text x='124' y='144' fill='#0e4a5a' opacity='0.1'>F</text>
+</g>
+<g class='c8' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='144' y='0' fill='#ffffff' opacity='1'>F</text>
+  <text x='144' y='16' fill='#8b5cf6' opacity='0.85'>)</text>
+  <text x='144' y='32' fill='#8b5cf6' opacity='0.7'>1</text>
+  <text x='144' y='48' fill='#2d1b6e' opacity='0.7'>(</text>
+  <text x='144' y='64' fill='#2d1b6e' opacity='0.6'>$</text>
+  <text x='144' y='80' fill='#2d1b6e' opacity='0.5'>A</text>
+  <text x='144' y='96' fill='#2d1b6e' opacity='0.4'>D</text>
+  <text x='144' y='112' fill='#2d1b6e' opacity='0.3'>E</text>
+  <text x='144' y='128' fill='#2d1b6e' opacity='0.2'>+</text>
+</g>
+<g class='c9' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='164' y='0' fill='#ffffff' opacity='1'>:</text>
+  <text x='164' y='16' fill='#06b6d4' opacity='0.85'>{</text>
+  <text x='164' y='32' fill='#06b6d4' opacity='0.7'>.</text>
+  <text x='164' y='48' fill='#0e4a5a' opacity='0.7'>.</text>
+  <text x='164' y='64' fill='#0e4a5a' opacity='0.6'>F</text>
+  <text x='164' y='80' fill='#0e4a5a' opacity='0.5'><</text>
+  <text x='164' y='96' fill='#0e4a5a' opacity='0.4'>~</text>
+  <text x='164' y='112' fill='#0e4a5a' opacity='0.3'>D</text>
+  <text x='164' y='128' fill='#0e4a5a' opacity='0.2'>{</text>
+  <text x='164' y='144' fill='#0e4a5a' opacity='0.1'>%</text>
+</g>
+<g class='c10' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='184' y='0' fill='#ffffff' opacity='1'>~</text>
+  <text x='184' y='16' fill='#8b5cf6' opacity='0.85'>B</text>
+  <text x='184' y='32' fill='#8b5cf6' opacity='0.7'>></text>
+  <text x='184' y='48' fill='#2d1b6e' opacity='0.7'>#</text>
+  <text x='184' y='64' fill='#2d1b6e' opacity='0.6'>;</text>
+  <text x='184' y='80' fill='#2d1b6e' opacity='0.5'>.</text>
+</g>
+<g class='c11' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='204' y='0' fill='#ffffff' opacity='1'>=</text>
+  <text x='204' y='16' fill='#ec4899' opacity='0.85'>D</text>
+  <text x='204' y='32' fill='#ec4899' opacity='0.7'>D</text>
+  <text x='204' y='48' fill='#5e1535' opacity='0.7'>.</text>
+  <text x='204' y='64' fill='#5e1535' opacity='0.6'>C</text>
+  <text x='204' y='80' fill='#5e1535' opacity='0.5'>C</text>
+  <text x='204' y='96' fill='#5e1535' opacity='0.4'>%</text>
+  <text x='204' y='112' fill='#5e1535' opacity='0.3'>B</text>
+  <text x='204' y='128' fill='#5e1535' opacity='0.2'>_</text>
+  <text x='204' y='144' fill='#5e1535' opacity='0.1'>F</text>
+</g>
+<g class='c12' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='224' y='0' fill='#ffffff' opacity='1'>$</text>
+  <text x='224' y='16' fill='#7aa2f7' opacity='0.85'>:</text>
+  <text x='224' y='32' fill='#7aa2f7' opacity='0.7'>;</text>
+  <text x='224' y='48' fill='#1a2f5e' opacity='0.7'>~</text>
+  <text x='224' y='64' fill='#1a2f5e' opacity='0.6'>F</text>
+  <text x='224' y='80' fill='#1a2f5e' opacity='0.5'>$</text>
+  <text x='224' y='96' fill='#1a2f5e' opacity='0.4'>}</text>
+  <text x='224' y='112' fill='#1a2f5e' opacity='0.3'>E</text>
+</g>
+<g class='c13' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='244' y='0' fill='#ffffff' opacity='1'>D</text>
+  <text x='244' y='16' fill='#22d3ee' opacity='0.85'>)</text>
+  <text x='244' y='32' fill='#22d3ee' opacity='0.7'>}</text>
+  <text x='244' y='48' fill='#073b47' opacity='0.7'>_</text>
+  <text x='244' y='64' fill='#073b47' opacity='0.6'>B</text>
+  <text x='244' y='80' fill='#073b47' opacity='0.5'>|</text>
+  <text x='244' y='96' fill='#073b47' opacity='0.4'>*</text>
+  <text x='244' y='112' fill='#073b47' opacity='0.3'>:</text>
+</g>
+<g class='c14' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='264' y='0' fill='#ffffff' opacity='1'>E</text>
+  <text x='264' y='16' fill='#a855f7' opacity='0.85'>.</text>
+  <text x='264' y='32' fill='#a855f7' opacity='0.7'>(</text>
+  <text x='264' y='48' fill='#2a0a5e' opacity='0.7'>0</text>
+  <text x='264' y='64' fill='#2a0a5e' opacity='0.6'>0</text>
+  <text x='264' y='80' fill='#2a0a5e' opacity='0.5'>;</text>
+  <text x='264' y='96' fill='#2a0a5e' opacity='0.4'>A</text>
+  <text x='264' y='112' fill='#2a0a5e' opacity='0.3'>0</text>
+</g>
+<g class='c15' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='284' y='0' fill='#ffffff' opacity='1'>)</text>
+  <text x='284' y='16' fill='#06b6d4' opacity='0.85'>D</text>
+  <text x='284' y='32' fill='#06b6d4' opacity='0.7'>}</text>
+  <text x='284' y='48' fill='#0e4a5a' opacity='0.7'>{</text>
+  <text x='284' y='64' fill='#0e4a5a' opacity='0.6'>:</text>
+  <text x='284' y='80' fill='#0e4a5a' opacity='0.5'>~</text>
+  <text x='284' y='96' fill='#0e4a5a' opacity='0.4'>@</text>
+  <text x='284' y='112' fill='#0e4a5a' opacity='0.3'>~</text>
+</g>
+<g class='c16' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='304' y='0' fill='#ffffff' opacity='1'>_</text>
+  <text x='304' y='16' fill='#8b5cf6' opacity='0.85'>F</text>
+  <text x='304' y='32' fill='#8b5cf6' opacity='0.7'>C</text>
+  <text x='304' y='48' fill='#2d1b6e' opacity='0.7'>*</text>
+  <text x='304' y='64' fill='#2d1b6e' opacity='0.6'>(</text>
+  <text x='304' y='80' fill='#2d1b6e' opacity='0.5'>:</text>
+  <text x='304' y='96' fill='#2d1b6e' opacity='0.4'>)</text>
+</g>
+<g class='c17' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='324' y='0' fill='#ffffff' opacity='1'>|</text>
+  <text x='324' y='16' fill='#06b6d4' opacity='0.85'>+</text>
+  <text x='324' y='32' fill='#06b6d4' opacity='0.7'>{</text>
+  <text x='324' y='48' fill='#0e4a5a' opacity='0.7'>D</text>
+  <text x='324' y='64' fill='#0e4a5a' opacity='0.6'>@</text>
+  <text x='324' y='80' fill='#0e4a5a' opacity='0.5'>)</text>
+</g>
+<g class='c18' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='344' y='0' fill='#ffffff' opacity='1'>|</text>
+  <text x='344' y='16' fill='#8b5cf6' opacity='0.85'>.</text>
+  <text x='344' y='32' fill='#8b5cf6' opacity='0.7'>(</text>
+  <text x='344' y='48' fill='#2d1b6e' opacity='0.7'>(</text>
+  <text x='344' y='64' fill='#2d1b6e' opacity='0.6'>$</text>
+  <text x='344' y='80' fill='#2d1b6e' opacity='0.5'>;</text>
+  <text x='344' y='96' fill='#2d1b6e' opacity='0.4'>0</text>
+</g>
+<g class='c19' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='364' y='0' fill='#ffffff' opacity='1'>E</text>
+  <text x='364' y='16' fill='#ec4899' opacity='0.85'>E</text>
+  <text x='364' y='32' fill='#ec4899' opacity='0.7'>D</text>
+  <text x='364' y='48' fill='#5e1535' opacity='0.7'>1</text>
+  <text x='364' y='64' fill='#5e1535' opacity='0.6'>;</text>
+  <text x='364' y='80' fill='#5e1535' opacity='0.5'>_</text>
+  <text x='364' y='96' fill='#5e1535' opacity='0.4'>D</text>
+  <text x='364' y='112' fill='#5e1535' opacity='0.3'>%</text>
+  <text x='364' y='128' fill='#5e1535' opacity='0.2'>)</text>
+  <text x='364' y='144' fill='#5e1535' opacity='0.1'>}</text>
+</g>
+<g class='c20' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='384' y='0' fill='#ffffff' opacity='1'>C</text>
+  <text x='384' y='16' fill='#7aa2f7' opacity='0.85'>/</text>
+  <text x='384' y='32' fill='#7aa2f7' opacity='0.7'>%</text>
+  <text x='384' y='48' fill='#1a2f5e' opacity='0.7'>:</text>
+  <text x='384' y='64' fill='#1a2f5e' opacity='0.6'>$</text>
+  <text x='384' y='80' fill='#1a2f5e' opacity='0.5'>D</text>
+  <text x='384' y='96' fill='#1a2f5e' opacity='0.4'>.</text>
+</g>
+<g class='c21' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='404' y='0' fill='#ffffff' opacity='1'>D</text>
+  <text x='404' y='16' fill='#22d3ee' opacity='0.85'><</text>
+  <text x='404' y='32' fill='#22d3ee' opacity='0.7'>B</text>
+  <text x='404' y='48' fill='#073b47' opacity='0.7'>~</text>
+  <text x='404' y='64' fill='#073b47' opacity='0.6'>A</text>
+  <text x='404' y='80' fill='#073b47' opacity='0.5'>~</text>
+  <text x='404' y='96' fill='#073b47' opacity='0.4'>F</text>
+  <text x='404' y='112' fill='#073b47' opacity='0.3'>.</text>
+  <text x='404' y='128' fill='#073b47' opacity='0.2'>%</text>
+  <text x='404' y='144' fill='#073b47' opacity='0.1'>|</text>
+</g>
+<g class='c22' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='424' y='0' fill='#ffffff' opacity='1'>></text>
+  <text x='424' y='16' fill='#a855f7' opacity='0.85'>D</text>
+  <text x='424' y='32' fill='#a855f7' opacity='0.7'>+</text>
+  <text x='424' y='48' fill='#2a0a5e' opacity='0.7'>></text>
+  <text x='424' y='64' fill='#2a0a5e' opacity='0.6'>D</text>
+  <text x='424' y='80' fill='#2a0a5e' opacity='0.5'>=</text>
+  <text x='424' y='96' fill='#2a0a5e' opacity='0.4'>;</text>
+</g>
+<g class='c23' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='444' y='0' fill='#ffffff' opacity='1'>F</text>
+  <text x='444' y='16' fill='#06b6d4' opacity='0.85'>)</text>
+  <text x='444' y='32' fill='#06b6d4' opacity='0.7'>@</text>
+  <text x='444' y='48' fill='#0e4a5a' opacity='0.7'>{</text>
+  <text x='444' y='64' fill='#0e4a5a' opacity='0.6'>C</text>
+  <text x='444' y='80' fill='#0e4a5a' opacity='0.5'>+</text>
+  <text x='444' y='96' fill='#0e4a5a' opacity='0.4'>)</text>
+</g>
+<g class='c24' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='464' y='0' fill='#ffffff' opacity='1'>B</text>
+  <text x='464' y='16' fill='#8b5cf6' opacity='0.85'>B</text>
+  <text x='464' y='32' fill='#8b5cf6' opacity='0.7'>|</text>
+  <text x='464' y='48' fill='#2d1b6e' opacity='0.7'>+</text>
+  <text x='464' y='64' fill='#2d1b6e' opacity='0.6'>;</text>
+  <text x='464' y='80' fill='#2d1b6e' opacity='0.5'>_</text>
+  <text x='464' y='96' fill='#2d1b6e' opacity='0.4'>:</text>
+  <text x='464' y='112' fill='#2d1b6e' opacity='0.3'>></text>
+</g>
+<g class='c25' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='484' y='0' fill='#ffffff' opacity='1'>></text>
+  <text x='484' y='16' fill='#06b6d4' opacity='0.85'>;</text>
+  <text x='484' y='32' fill='#06b6d4' opacity='0.7'>></text>
+  <text x='484' y='48' fill='#0e4a5a' opacity='0.7'>|</text>
+  <text x='484' y='64' fill='#0e4a5a' opacity='0.6'>;</text>
+  <text x='484' y='80' fill='#0e4a5a' opacity='0.5'>F</text>
+  <text x='484' y='96' fill='#0e4a5a' opacity='0.4'>:</text>
+  <text x='484' y='112' fill='#0e4a5a' opacity='0.3'>></text>
+  <text x='484' y='128' fill='#0e4a5a' opacity='0.2'>0</text>
+</g>
+<g class='c26' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='504' y='0' fill='#ffffff' opacity='1'>;</text>
+  <text x='504' y='16' fill='#8b5cf6' opacity='0.85'>{</text>
+  <text x='504' y='32' fill='#8b5cf6' opacity='0.7'>)</text>
+  <text x='504' y='48' fill='#2d1b6e' opacity='0.7'>=</text>
+  <text x='504' y='64' fill='#2d1b6e' opacity='0.6'>+</text>
+  <text x='504' y='80' fill='#2d1b6e' opacity='0.5'>}</text>
+</g>
+<g class='c27' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='524' y='0' fill='#ffffff' opacity='1'>.</text>
+  <text x='524' y='16' fill='#ec4899' opacity='0.85'>_</text>
+  <text x='524' y='32' fill='#ec4899' opacity='0.7'>|</text>
+  <text x='524' y='48' fill='#5e1535' opacity='0.7'>D</text>
+  <text x='524' y='64' fill='#5e1535' opacity='0.6'>F</text>
+  <text x='524' y='80' fill='#5e1535' opacity='0.5'>D</text>
+  <text x='524' y='96' fill='#5e1535' opacity='0.4'>%</text>
+  <text x='524' y='112' fill='#5e1535' opacity='0.3'>}</text>
+</g>
+<g class='c28' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='544' y='0' fill='#ffffff' opacity='1'>D</text>
+  <text x='544' y='16' fill='#7aa2f7' opacity='0.85'>></text>
+  <text x='544' y='32' fill='#7aa2f7' opacity='0.7'>_</text>
+  <text x='544' y='48' fill='#1a2f5e' opacity='0.7'>E</text>
+  <text x='544' y='64' fill='#1a2f5e' opacity='0.6'>/</text>
+  <text x='544' y='80' fill='#1a2f5e' opacity='0.5'>*</text>
+</g>
+<g class='c29' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='564' y='0' fill='#ffffff' opacity='1'>/</text>
+  <text x='564' y='16' fill='#22d3ee' opacity='0.85'>A</text>
+  <text x='564' y='32' fill='#22d3ee' opacity='0.7'>:</text>
+  <text x='564' y='48' fill='#073b47' opacity='0.7'>}</text>
+  <text x='564' y='64' fill='#073b47' opacity='0.6'>C</text>
+  <text x='564' y='80' fill='#073b47' opacity='0.5'>=</text>
+  <text x='564' y='96' fill='#073b47' opacity='0.4'>)</text>
+  <text x='564' y='112' fill='#073b47' opacity='0.3'>></text>
+</g>
+<g class='c30' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='584' y='0' fill='#ffffff' opacity='1'>C</text>
+  <text x='584' y='16' fill='#a855f7' opacity='0.85'>~</text>
+  <text x='584' y='32' fill='#a855f7' opacity='0.7'>E</text>
+  <text x='584' y='48' fill='#2a0a5e' opacity='0.7'>)</text>
+  <text x='584' y='64' fill='#2a0a5e' opacity='0.6'>*</text>
+  <text x='584' y='80' fill='#2a0a5e' opacity='0.5'>}</text>
+</g>
+<g class='c31' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='604' y='0' fill='#ffffff' opacity='1'>@</text>
+  <text x='604' y='16' fill='#06b6d4' opacity='0.85'>_</text>
+  <text x='604' y='32' fill='#06b6d4' opacity='0.7'>F</text>
+  <text x='604' y='48' fill='#0e4a5a' opacity='0.7'>*</text>
+  <text x='604' y='64' fill='#0e4a5a' opacity='0.6'>+</text>
+  <text x='604' y='80' fill='#0e4a5a' opacity='0.5'>B</text>
+  <text x='604' y='96' fill='#0e4a5a' opacity='0.4'>></text>
+  <text x='604' y='112' fill='#0e4a5a' opacity='0.3'>/</text>
+  <text x='604' y='128' fill='#0e4a5a' opacity='0.2'>%</text>
+</g>
+<g class='c32' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='624' y='0' fill='#ffffff' opacity='1'>></text>
+  <text x='624' y='16' fill='#8b5cf6' opacity='0.85'><</text>
+  <text x='624' y='32' fill='#8b5cf6' opacity='0.7'>}</text>
+  <text x='624' y='48' fill='#2d1b6e' opacity='0.7'>/</text>
+  <text x='624' y='64' fill='#2d1b6e' opacity='0.6'><</text>
+  <text x='624' y='80' fill='#2d1b6e' opacity='0.5'>+</text>
+  <text x='624' y='96' fill='#2d1b6e' opacity='0.4'>_</text>
+</g>
+<g class='c33' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='644' y='0' fill='#ffffff' opacity='1'>C</text>
+  <text x='644' y='16' fill='#06b6d4' opacity='0.85'>B</text>
+  <text x='644' y='32' fill='#06b6d4' opacity='0.7'>:</text>
+  <text x='644' y='48' fill='#0e4a5a' opacity='0.7'>0</text>
+  <text x='644' y='64' fill='#0e4a5a' opacity='0.6'>+</text>
+  <text x='644' y='80' fill='#0e4a5a' opacity='0.5'>></text>
+  <text x='644' y='96' fill='#0e4a5a' opacity='0.4'>#</text>
+  <text x='644' y='112' fill='#0e4a5a' opacity='0.3'>;</text>
+</g>
+<g class='c34' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='664' y='0' fill='#ffffff' opacity='1'><</text>
+  <text x='664' y='16' fill='#8b5cf6' opacity='0.85'>;</text>
+  <text x='664' y='32' fill='#8b5cf6' opacity='0.7'>*</text>
+  <text x='664' y='48' fill='#2d1b6e' opacity='0.7'>E</text>
+  <text x='664' y='64' fill='#2d1b6e' opacity='0.6'>*</text>
+  <text x='664' y='80' fill='#2d1b6e' opacity='0.5'>_</text>
+  <text x='664' y='96' fill='#2d1b6e' opacity='0.4'>|</text>
+  <text x='664' y='112' fill='#2d1b6e' opacity='0.3'>)</text>
+  <text x='664' y='128' fill='#2d1b6e' opacity='0.2'>(</text>
+  <text x='664' y='144' fill='#2d1b6e' opacity='0.1'>|</text>
+</g>
+<g class='c35' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='684' y='0' fill='#ffffff' opacity='1'>C</text>
+  <text x='684' y='16' fill='#ec4899' opacity='0.85'>%</text>
+  <text x='684' y='32' fill='#ec4899' opacity='0.7'>=</text>
+  <text x='684' y='48' fill='#5e1535' opacity='0.7'>E</text>
+  <text x='684' y='64' fill='#5e1535' opacity='0.6'>~</text>
+  <text x='684' y='80' fill='#5e1535' opacity='0.5'>+</text>
+  <text x='684' y='96' fill='#5e1535' opacity='0.4'>%</text>
+  <text x='684' y='112' fill='#5e1535' opacity='0.3'>}</text>
+  <text x='684' y='128' fill='#5e1535' opacity='0.2'>D</text>
+  <text x='684' y='144' fill='#5e1535' opacity='0.1'>+</text>
+</g>
+<g class='c36' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='704' y='0' fill='#ffffff' opacity='1'>E</text>
+  <text x='704' y='16' fill='#7aa2f7' opacity='0.85'>(</text>
+  <text x='704' y='32' fill='#7aa2f7' opacity='0.7'>+</text>
+  <text x='704' y='48' fill='#1a2f5e' opacity='0.7'>+</text>
+  <text x='704' y='64' fill='#1a2f5e' opacity='0.6'>:</text>
+  <text x='704' y='80' fill='#1a2f5e' opacity='0.5'>/</text>
+  <text x='704' y='96' fill='#1a2f5e' opacity='0.4'>@</text>
+  <text x='704' y='112' fill='#1a2f5e' opacity='0.3'>0</text>
+  <text x='704' y='128' fill='#1a2f5e' opacity='0.2'>C</text>
+</g>
+<g class='c37' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='724' y='0' fill='#ffffff' opacity='1'>|</text>
+  <text x='724' y='16' fill='#22d3ee' opacity='0.85'>F</text>
+  <text x='724' y='32' fill='#22d3ee' opacity='0.7'>1</text>
+  <text x='724' y='48' fill='#073b47' opacity='0.7'><</text>
+  <text x='724' y='64' fill='#073b47' opacity='0.6'>F</text>
+  <text x='724' y='80' fill='#073b47' opacity='0.5'>)</text>
+</g>
+<g class='c38' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='744' y='0' fill='#ffffff' opacity='1'>:</text>
+  <text x='744' y='16' fill='#a855f7' opacity='0.85'>A</text>
+  <text x='744' y='32' fill='#a855f7' opacity='0.7'>></text>
+  <text x='744' y='48' fill='#2a0a5e' opacity='0.7'>C</text>
+  <text x='744' y='64' fill='#2a0a5e' opacity='0.6'>)</text>
+  <text x='744' y='80' fill='#2a0a5e' opacity='0.5'>_</text>
+  <text x='744' y='96' fill='#2a0a5e' opacity='0.4'>+</text>
+  <text x='744' y='112' fill='#2a0a5e' opacity='0.3'>:</text>
+</g>
+<g class='c39' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='764' y='0' fill='#ffffff' opacity='1'>/</text>
+  <text x='764' y='16' fill='#06b6d4' opacity='0.85'>/</text>
+  <text x='764' y='32' fill='#06b6d4' opacity='0.7'>0</text>
+  <text x='764' y='48' fill='#0e4a5a' opacity='0.7'>*</text>
+  <text x='764' y='64' fill='#0e4a5a' opacity='0.6'>)</text>
+  <text x='764' y='80' fill='#0e4a5a' opacity='0.5'>/</text>
+</g>
+<g class='c40' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='784' y='0' fill='#ffffff' opacity='1'>:</text>
+  <text x='784' y='16' fill='#8b5cf6' opacity='0.85'>:</text>
+  <text x='784' y='32' fill='#8b5cf6' opacity='0.7'>/</text>
+  <text x='784' y='48' fill='#2d1b6e' opacity='0.7'>)</text>
+  <text x='784' y='64' fill='#2d1b6e' opacity='0.6'>C</text>
+  <text x='784' y='80' fill='#2d1b6e' opacity='0.5'>/</text>
+</g>
+<g class='c41' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='804' y='0' fill='#ffffff' opacity='1'>.</text>
+  <text x='804' y='16' fill='#06b6d4' opacity='0.85'>}</text>
+  <text x='804' y='32' fill='#06b6d4' opacity='0.7'>%</text>
+  <text x='804' y='48' fill='#0e4a5a' opacity='0.7'>B</text>
+  <text x='804' y='64' fill='#0e4a5a' opacity='0.6'>#</text>
+  <text x='804' y='80' fill='#0e4a5a' opacity='0.5'>%</text>
+</g>
+<g class='c42' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='824' y='0' fill='#ffffff' opacity='1'>C</text>
+  <text x='824' y='16' fill='#8b5cf6' opacity='0.85'>=</text>
+  <text x='824' y='32' fill='#8b5cf6' opacity='0.7'>#</text>
+  <text x='824' y='48' fill='#2d1b6e' opacity='0.7'>F</text>
+  <text x='824' y='64' fill='#2d1b6e' opacity='0.6'>B</text>
+  <text x='824' y='80' fill='#2d1b6e' opacity='0.5'>></text>
+  <text x='824' y='96' fill='#2d1b6e' opacity='0.4'>%</text>
+  <text x='824' y='112' fill='#2d1b6e' opacity='0.3'>D</text>
+  <text x='824' y='128' fill='#2d1b6e' opacity='0.2'>=</text>
+</g>
+<g class='c43' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='844' y='0' fill='#ffffff' opacity='1'>F</text>
+  <text x='844' y='16' fill='#ec4899' opacity='0.85'>/</text>
+  <text x='844' y='32' fill='#ec4899' opacity='0.7'>{</text>
+  <text x='844' y='48' fill='#5e1535' opacity='0.7'>F</text>
+  <text x='844' y='64' fill='#5e1535' opacity='0.6'>></text>
+  <text x='844' y='80' fill='#5e1535' opacity='0.5'>F</text>
+  <text x='844' y='96' fill='#5e1535' opacity='0.4'>)</text>
+  <text x='844' y='112' fill='#5e1535' opacity='0.3'>C</text>
+</g>
+<g class='c44' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='864' y='0' fill='#ffffff' opacity='1'>A</text>
+  <text x='864' y='16' fill='#7aa2f7' opacity='0.85'>+</text>
+  <text x='864' y='32' fill='#7aa2f7' opacity='0.7'>_</text>
+  <text x='864' y='48' fill='#1a2f5e' opacity='0.7'>*</text>
+  <text x='864' y='64' fill='#1a2f5e' opacity='0.6'>F</text>
+  <text x='864' y='80' fill='#1a2f5e' opacity='0.5'>=</text>
+</g>
+<g class='c45' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='884' y='0' fill='#ffffff' opacity='1'>.</text>
+  <text x='884' y='16' fill='#22d3ee' opacity='0.85'>:</text>
+  <text x='884' y='32' fill='#22d3ee' opacity='0.7'>=</text>
+  <text x='884' y='48' fill='#073b47' opacity='0.7'>_</text>
+  <text x='884' y='64' fill='#073b47' opacity='0.6'>C</text>
+  <text x='884' y='80' fill='#073b47' opacity='0.5'>(</text>
+  <text x='884' y='96' fill='#073b47' opacity='0.4'>A</text>
+  <text x='884' y='112' fill='#073b47' opacity='0.3'>%</text>
+  <text x='884' y='128' fill='#073b47' opacity='0.2'>$</text>
+  <text x='884' y='144' fill='#073b47' opacity='0.1'>+</text>
+</g>
+<g class='c46' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='904' y='0' fill='#ffffff' opacity='1'>*</text>
+  <text x='904' y='16' fill='#a855f7' opacity='0.85'>|</text>
+  <text x='904' y='32' fill='#a855f7' opacity='0.7'>)</text>
+  <text x='904' y='48' fill='#2a0a5e' opacity='0.7'>~</text>
+  <text x='904' y='64' fill='#2a0a5e' opacity='0.6'>|</text>
+  <text x='904' y='80' fill='#2a0a5e' opacity='0.5'>+</text>
+  <text x='904' y='96' fill='#2a0a5e' opacity='0.4'>C</text>
+  <text x='904' y='112' fill='#2a0a5e' opacity='0.3'>)</text>
+</g>
+<g class='c47' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='924' y='0' fill='#ffffff' opacity='1'>(</text>
+  <text x='924' y='16' fill='#06b6d4' opacity='0.85'>0</text>
+  <text x='924' y='32' fill='#06b6d4' opacity='0.7'>=</text>
+  <text x='924' y='48' fill='#0e4a5a' opacity='0.7'>}</text>
+  <text x='924' y='64' fill='#0e4a5a' opacity='0.6'>)</text>
+  <text x='924' y='80' fill='#0e4a5a' opacity='0.5'>F</text>
+  <text x='924' y='96' fill='#0e4a5a' opacity='0.4'>|</text>
+  <text x='924' y='112' fill='#0e4a5a' opacity='0.3'>_</text>
+</g>
+<g class='c48' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='944' y='0' fill='#ffffff' opacity='1'>></text>
+  <text x='944' y='16' fill='#8b5cf6' opacity='0.85'><</text>
+  <text x='944' y='32' fill='#8b5cf6' opacity='0.7'>#</text>
+  <text x='944' y='48' fill='#2d1b6e' opacity='0.7'>:</text>
+  <text x='944' y='64' fill='#2d1b6e' opacity='0.6'>C</text>
+  <text x='944' y='80' fill='#2d1b6e' opacity='0.5'>:</text>
+  <text x='944' y='96' fill='#2d1b6e' opacity='0.4'>}</text>
+  <text x='944' y='112' fill='#2d1b6e' opacity='0.3'>(</text>
+  <text x='944' y='128' fill='#2d1b6e' opacity='0.2'>E</text>
+  <text x='944' y='144' fill='#2d1b6e' opacity='0.1'>*</text>
+</g>
+<g class='c49' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='964' y='0' fill='#ffffff' opacity='1'>*</text>
+  <text x='964' y='16' fill='#06b6d4' opacity='0.85'>*</text>
+  <text x='964' y='32' fill='#06b6d4' opacity='0.7'>#</text>
+  <text x='964' y='48' fill='#0e4a5a' opacity='0.7'>|</text>
+  <text x='964' y='64' fill='#0e4a5a' opacity='0.6'>|</text>
+  <text x='964' y='80' fill='#0e4a5a' opacity='0.5'>+</text>
+  <text x='964' y='96' fill='#0e4a5a' opacity='0.4'>#</text>
+  <text x='964' y='112' fill='#0e4a5a' opacity='0.3'>.</text>
+  <text x='964' y='128' fill='#0e4a5a' opacity='0.2'>}</text>
+</g>
+<g class='c50' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='984' y='0' fill='#ffffff' opacity='1'>1</text>
+  <text x='984' y='16' fill='#8b5cf6' opacity='0.85'>+</text>
+  <text x='984' y='32' fill='#8b5cf6' opacity='0.7'>_</text>
+  <text x='984' y='48' fill='#2d1b6e' opacity='0.7'>></text>
+  <text x='984' y='64' fill='#2d1b6e' opacity='0.6'>_</text>
+  <text x='984' y='80' fill='#2d1b6e' opacity='0.5'>_</text>
+  <text x='984' y='96' fill='#2d1b6e' opacity='0.4'>+</text>
+</g>
+<g class='c51' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='1004' y='0' fill='#ffffff' opacity='1'>#</text>
+  <text x='1004' y='16' fill='#ec4899' opacity='0.85'>D</text>
+  <text x='1004' y='32' fill='#ec4899' opacity='0.7'>B</text>
+  <text x='1004' y='48' fill='#5e1535' opacity='0.7'>1</text>
+  <text x='1004' y='64' fill='#5e1535' opacity='0.6'>=</text>
+  <text x='1004' y='80' fill='#5e1535' opacity='0.5'>|</text>
+  <text x='1004' y='96' fill='#5e1535' opacity='0.4'>~</text>
+  <text x='1004' y='112' fill='#5e1535' opacity='0.3'>{</text>
+</g>
+<g class='c52' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='1024' y='0' fill='#ffffff' opacity='1'>%</text>
+  <text x='1024' y='16' fill='#7aa2f7' opacity='0.85'>E</text>
+  <text x='1024' y='32' fill='#7aa2f7' opacity='0.7'>|</text>
+  <text x='1024' y='48' fill='#1a2f5e' opacity='0.7'>{</text>
+  <text x='1024' y='64' fill='#1a2f5e' opacity='0.6'>.</text>
+  <text x='1024' y='80' fill='#1a2f5e' opacity='0.5'>;</text>
+  <text x='1024' y='96' fill='#1a2f5e' opacity='0.4'>$</text>
+</g>
+<g class='c53' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='1044' y='0' fill='#ffffff' opacity='1'>=</text>
+  <text x='1044' y='16' fill='#22d3ee' opacity='0.85'>*</text>
+  <text x='1044' y='32' fill='#22d3ee' opacity='0.7'>(</text>
+  <text x='1044' y='48' fill='#073b47' opacity='0.7'>A</text>
+  <text x='1044' y='64' fill='#073b47' opacity='0.6'>%</text>
+  <text x='1044' y='80' fill='#073b47' opacity='0.5'>$</text>
+  <text x='1044' y='96' fill='#073b47' opacity='0.4'>~</text>
+  <text x='1044' y='112' fill='#073b47' opacity='0.3'>%</text>
+  <text x='1044' y='128' fill='#073b47' opacity='0.2'>*</text>
+  <text x='1044' y='144' fill='#073b47' opacity='0.1'><</text>
+</g>
+<g class='c54' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='1064' y='0' fill='#ffffff' opacity='1'>+</text>
+  <text x='1064' y='16' fill='#a855f7' opacity='0.85'>}</text>
+  <text x='1064' y='32' fill='#a855f7' opacity='0.7'>></text>
+  <text x='1064' y='48' fill='#2a0a5e' opacity='0.7'>*</text>
+  <text x='1064' y='64' fill='#2a0a5e' opacity='0.6'>$</text>
+  <text x='1064' y='80' fill='#2a0a5e' opacity='0.5'>A</text>
+  <text x='1064' y='96' fill='#2a0a5e' opacity='0.4'>@</text>
+</g>
+<g class='c55' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='1084' y='0' fill='#ffffff' opacity='1'>D</text>
+  <text x='1084' y='16' fill='#06b6d4' opacity='0.85'>$</text>
+  <text x='1084' y='32' fill='#06b6d4' opacity='0.7'>D</text>
+  <text x='1084' y='48' fill='#0e4a5a' opacity='0.7'>1</text>
+  <text x='1084' y='64' fill='#0e4a5a' opacity='0.6'>A</text>
+  <text x='1084' y='80' fill='#0e4a5a' opacity='0.5'>(</text>
+  <text x='1084' y='96' fill='#0e4a5a' opacity='0.4'>#</text>
+  <text x='1084' y='112' fill='#0e4a5a' opacity='0.3'>D</text>
+  <text x='1084' y='128' fill='#0e4a5a' opacity='0.2'>B</text>
+</g>
+<g class='c56' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='1104' y='0' fill='#ffffff' opacity='1'>{</text>
+  <text x='1104' y='16' fill='#8b5cf6' opacity='0.85'>)</text>
+  <text x='1104' y='32' fill='#8b5cf6' opacity='0.7'>|</text>
+  <text x='1104' y='48' fill='#2d1b6e' opacity='0.7'>}</text>
+  <text x='1104' y='64' fill='#2d1b6e' opacity='0.6'>}</text>
+  <text x='1104' y='80' fill='#2d1b6e' opacity='0.5'><</text>
+  <text x='1104' y='96' fill='#2d1b6e' opacity='0.4'>{</text>
+  <text x='1104' y='112' fill='#2d1b6e' opacity='0.3'>#</text>
+  <text x='1104' y='128' fill='#2d1b6e' opacity='0.2'>~</text>
+</g>
+<g class='c57' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='1124' y='0' fill='#ffffff' opacity='1'>|</text>
+  <text x='1124' y='16' fill='#06b6d4' opacity='0.85'>}</text>
+  <text x='1124' y='32' fill='#06b6d4' opacity='0.7'>@</text>
+  <text x='1124' y='48' fill='#0e4a5a' opacity='0.7'>1</text>
+  <text x='1124' y='64' fill='#0e4a5a' opacity='0.6'>:</text>
+  <text x='1124' y='80' fill='#0e4a5a' opacity='0.5'>)</text>
+  <text x='1124' y='96' fill='#0e4a5a' opacity='0.4'>#</text>
+  <text x='1124' y='112' fill='#0e4a5a' opacity='0.3'>1</text>
+  <text x='1124' y='128' fill='#0e4a5a' opacity='0.2'>|</text>
+  <text x='1124' y='144' fill='#0e4a5a' opacity='0.1'>:</text>
+</g>
+<g class='c58' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='1144' y='0' fill='#ffffff' opacity='1'>/</text>
+  <text x='1144' y='16' fill='#8b5cf6' opacity='0.85'>;</text>
+  <text x='1144' y='32' fill='#8b5cf6' opacity='0.7'>~</text>
+  <text x='1144' y='48' fill='#2d1b6e' opacity='0.7'>~</text>
+  <text x='1144' y='64' fill='#2d1b6e' opacity='0.6'>|</text>
+  <text x='1144' y='80' fill='#2d1b6e' opacity='0.5'>_</text>
+  <text x='1144' y='96' fill='#2d1b6e' opacity='0.4'>$</text>
+  <text x='1144' y='112' fill='#2d1b6e' opacity='0.3'>#</text>
+  <text x='1144' y='128' fill='#2d1b6e' opacity='0.2'>*</text>
+  <text x='1144' y='144' fill='#2d1b6e' opacity='0.1'>></text>
+</g>
+<g class='c59' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='1164' y='0' fill='#ffffff' opacity='1'>A</text>
+  <text x='1164' y='16' fill='#ec4899' opacity='0.85'>.</text>
+  <text x='1164' y='32' fill='#ec4899' opacity='0.7'>#</text>
+  <text x='1164' y='48' fill='#5e1535' opacity='0.7'>A</text>
+  <text x='1164' y='64' fill='#5e1535' opacity='0.6'>E</text>
+  <text x='1164' y='80' fill='#5e1535' opacity='0.5'>@</text>
+  <text x='1164' y='96' fill='#5e1535' opacity='0.4'>0</text>
+  <text x='1164' y='112' fill='#5e1535' opacity='0.3'>1</text>
+</g>
+<g class='c60' font-family='monospace' font-size='13px' text-anchor='middle'>
+  <text x='1184' y='0' fill='#ffffff' opacity='1'>1</text>
+  <text x='1184' y='16' fill='#7aa2f7' opacity='0.85'>{</text>
+  <text x='1184' y='32' fill='#7aa2f7' opacity='0.7'>*</text>
+  <text x='1184' y='48' fill='#1a2f5e' opacity='0.7'>)</text>
+  <text x='1184' y='64' fill='#1a2f5e' opacity='0.6'>_</text>
+  <text x='1184' y='80' fill='#1a2f5e' opacity='0.5'>0</text>
+  <text x='1184' y='96' fill='#1a2f5e' opacity='0.4'>B</text>
+  <text x='1184' y='112' fill='#1a2f5e' opacity='0.3'>+</text>
+</g>
+
+</svg>
